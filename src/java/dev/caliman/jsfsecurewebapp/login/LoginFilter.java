@@ -1,4 +1,4 @@
-package org.caliman.jsfsecurewebapp.login;
+package dev.caliman.jsfsecurewebapp.login;
 
 import java.io.IOException;
 import java.util.logging.Level;

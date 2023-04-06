@@ -6,7 +6,7 @@
     </context-param>
     <filter>
         <filter-name>LoginFilter</filter-name>
-        <filter-class>dev.caliman.jsfsecurewebapp.login.LoginFilter</filter-class>
+        <filter-class>com.trueprogramming.jsfsecurewebapp.LoginFilter</filter-class>
     </filter>
     <filter-mapping>
         <filter-name>LoginFilter</filter-name>

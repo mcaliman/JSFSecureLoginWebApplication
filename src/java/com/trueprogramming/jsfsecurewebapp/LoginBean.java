@@ -1,4 +1,4 @@
-package dev.caliman.jsfsecurewebapp.login;
+package com.trueprogramming.jsfsecurewebapp;
 
 import java.io.Serializable;
 import java.util.logging.Level;
